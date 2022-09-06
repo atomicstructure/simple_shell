@@ -140,5 +140,4 @@ char *error_exit_shell(data_shell *datash)
 	_strcat(error, "\n\0");
 	free(ver_str);
 
-	return (error);
-}
+	return (error)
